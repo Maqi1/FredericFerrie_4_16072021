@@ -1078,10 +1078,16 @@ h1 {
     }
 }
 
-@media (min-width:400px) and (max-width:420px){
+@media (min-width:400px) and (max-width:450px){
     .img-responsive {
         width:400px
     }
+    .col-sm-6-info-contact {
+        font-size:18px;
+        padding:20px 0px 0px 40px;
+        width:80%
+    }
+    
 }
 @media (min-width:421px) and (max-width:493px){
     .img-responsive {
@@ -1130,6 +1136,9 @@ h1 {
         font-size: 18px;
         line-height: 2;
     }
+
+
+}
     
     .footer-just{
         display:flex;
