@@ -5144,7 +5144,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
         width:700px
     }
 }
-@media (min-device-width:541px) and (max-device-width:600px){
+@media (min-width:541px) and (max--width:600px){
     .img-responsive {
         width:800px
     }
