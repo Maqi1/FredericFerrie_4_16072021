@@ -1087,26 +1087,41 @@ h1 {
         padding:20px 0px 0px 40px;
         width:80%
     }
+    .image-resize-mode{
+        width:100px;
+    }
     
 }
 @media (min-width:421px) and (max-width:493px){
     .img-responsive {
         width:500px
     }
+    .image-resize-mode{
+        width:100px;
+    }
 }
 @media (min-width:494px) and (max-width:580px){
     .img-responsive {
         width:700px
+    }
+    .image-resize-mode{
+        width:100px;
     }
 }
 @media (min-width:541px) and (max-width:600px){
     .img-responsive {
         width:800px
     }
+    .image-resize-mode{
+        width:100px;
+    }
 }
 @media (min-width:601px) and (max-width:648px){
     .img-responsive {
         width:1000px
+    }
+    .image-resize-mode{
+        width:100px;
     }
 }
 @media (min-width:649px) and (max-width:685px){
